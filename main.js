@@ -1,3 +1,5 @@
+// main commentari added
+
 var mes_text = [
   "Enero",
   "Febrero",
